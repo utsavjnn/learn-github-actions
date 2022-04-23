@@ -37,8 +37,10 @@ jobs:
           pwd
           ls -a
           echo one behind
+          cd ..
           pwd 
           ls -a
           echo two behind
+          cd ..
           pwd
           ls -a
